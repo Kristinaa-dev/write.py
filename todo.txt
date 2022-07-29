@@ -1,0 +1,19 @@
+Start (Approx. 1 day)
+ 1. project structure
+ 2. figure out how to pack python files into programms that can be run on linux
+
+First revision (Approx . 2 weeks)
+  1. take input from stylus
+  2. simple dark background
+  3. writting in white
+  4. vertical scrolling
+  
+Second revision
+  1. save/open function
+  2. more colors
+  3. pen thickness
+  4. custom background colors
+  5. simple UI
+ 
+Third revision
+  1. switch to typed text input
